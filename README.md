@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Saini</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysaini001&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysaini001" /> </p>
+<p align="left"> <img src="https://pixabay.com/illustrations/developer-programmer-coding-8764523/" alt="akshaysaini001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaysaini001" alt="akshaysaini001" /></a> </p>
 
